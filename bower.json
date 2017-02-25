@@ -1,0 +1,13 @@
+{
+  "name": "grandmail",
+  "private": true,
+  "version": "0.0.0",
+  "dependencies": {
+    "jquery": "1.10.2",
+    "gmail.js": "https://github.com/KartikTalwar/gmail.js.git#master"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
