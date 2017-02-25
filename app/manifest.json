@@ -4,8 +4,8 @@
   "manifest_version": 2,
   "description": "Stop Grandmas",
   "icons": {
-    "16": "images/icon-16.png",
-    "128": "images/icon-128.png"
+    "16": "images/icons/icon-16.png",
+    "128": "images/icons/icon-128.png"
   },
   "default_locale": "en",
   "background": {
@@ -26,13 +26,15 @@
   "web_accessible_resources": [
     "bower_components/**",
     "vendor/**",
-    "scripts/**"
+    "scripts/**",
+    "styles/**",
+    "images/**"
   ],
   "permissions": [],
   "page_action": {
     "default_icon": {
-      "19": "images/icon-19.png",
-      "38": "images/icon-38.png"
+      "19": "images/icons/icon-19.png",
+      "38": "images/icons/icon-38.png"
     },
     "default_title": "grandmail",
     "default_popup": "popup.html"
