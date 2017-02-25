@@ -7,6 +7,7 @@ A Chrome Extension to help you channel your inner Jewish lady.
 Straight from the source:
 
 Hi sweetie:
+*
 It's Monday morning and I'm back to work.  I even got to bed by 
 11:00 p.m. last night.  No Golden Girls.  (tonight).
 So how does it feel to be home?  I miss you both bunches.  
@@ -16,6 +17,7 @@ I keep thinking of all the things I forgot to do with you girls and the
 I Love you bunches....enjoy the days ahead.....you'll especially enjoy 
 when the boxes come.  
 Bubbie 
+*
 
 ![alt text](app/images/grandma-stuff/bagel.jpg "Bagels")
 ![alt text](app/images/grandma-stuff/doctor.jpg "Doctors")
