@@ -44,6 +44,7 @@ const reasonOptions = [
   "I have new neighbors and they have ugly lawn decor",
   "I sent you $200 why haven't you called me?",
   "a new bagel store opened down the road",
+  "(insert ellipsis)",
   "I found you a boyfriend",
   "I don't know why you're not married yet",
   "I NEED YOU TO EXPLAIN MY PRINTER TO ME"
